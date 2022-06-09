@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @swaroopampawar
-- 👀 I’m interested in Data Science, Data Visualization, Python, Machine Learnig 
-- 🌱 I’m currently learning SQL, Deployment
+- 👀 I’m interested in Data Science, Data Visualization, Python, Machine Learning 
+- 🌱 I’m currently learning SQL, Deployment, NLP
 - 💞️ I’m looking to collaborate on Coding
 - 📫 How to reach me swaroopakulkarnipawar@gmail.com
 
